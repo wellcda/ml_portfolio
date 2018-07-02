@@ -1,6 +1,16 @@
+/*body
+.container-fluid {
+	background: #F9F9F9 !important;
+}*/
+
+.row {
+	padding-right: 15px;
+	padding-left: 15px;
+}
 .nav-top {
 	height: 35px;
 	margin-left: 89px;
+	margin-bottom: 3rem;
 }
 
 .top-title {
@@ -19,11 +29,36 @@
 	height: 2.5rem;
 }
 
+.section {
+	margin-bottom: 3rem !important;
+}
+
+
+.main-section {
+	background: #3366FF;
+	color: #FFFFFF;
+}
+
+p {
+	font-family: IBM Plex Mono;
+	line-height: normal;
+	font-size: 14px;
+}
+
 .section-header {
 	font-family: Cera Round Pro;
 	line-height: normal;
 	font-size: 32px;
-	color: #000000;
+}
+
+.section-sub-header {
+	margin-top: 2rem;
+	font-family: IBM Plex Mono;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 24px;
+	text-transform: uppercase;
 }
 
 .section-address {
@@ -38,5 +73,72 @@
 	border-left-color: #2CB3FF;
 }
 
+.products-list {
+	list-style-type: none;
+	font-family: IBM Plex Mono;
+	font-style: italic;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 24px;
+	margin: 0;
+    padding: 0;
+}
 
+.btn-contact {
+	background: #FFFFFF;
+	border-radius: 100px;
+	font-family: Cera Round Pro;
+	line-height: normal;
+	font-size: 16px;
+	color: #3366FF;
+	width: 311px;
+	height: 54px;
+	border: none;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	cursor: pointer;
+}
 
+.mid-section .section-sub-header {
+	color: #3366FF;
+
+}
+
+.section-image {
+	height: auto;
+
+    max-height: 374px;
+    max-width: 868px;
+    min-height: 207px;
+    min-width: 311px
+}
+
+.yellow-bar {
+	background: url(../imgs/yellowbar.png);
+}
+
+.green-bar {
+	background: url(../imgs/greenbar.png);
+}
+
+.background-bar {
+    background-repeat: no-repeat;
+    background-size: 100% 188px;
+    background-position: 0 17%; 
+}
+
+@media (max-width: 576px) {
+	.background-bar {
+    	background-repeat: no-repeat;
+    	background-size: 100% 70px;
+    	background-position: 0 20%; 
+	}
+}
+
+@media (min-width: 576px) and (max-width: 728px) {
+	.background-bar {
+	    background-repeat: no-repeat;
+	    background-size: 100% 188px;
+	    background-position: 0 55%;
+	}
+}

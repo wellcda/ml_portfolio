@@ -1,7 +1,6 @@
-/*body
-.container-fluid {
+body, .container-fluid {
 	background: #F9F9F9 !important;
-}*/
+}
 
 .row {
 	padding-right: 15px;
@@ -10,7 +9,8 @@
 .nav-top {
 	height: 35px;
 	margin-left: 89px;
-	margin-bottom: 3rem;
+	margin-top: 15px;
+	margin-bottom: 1rem;
 }
 
 .top-title {
@@ -25,12 +25,8 @@
 	word-spacing: 5px;
 }
 
-.section-spacer {
-	height: 2.5rem;
-}
-
 .section {
-	margin-bottom: 3rem !important;
+	margin-bottom: 2rem !important;
 }
 
 
@@ -46,6 +42,7 @@ p {
 }
 
 .section-header {
+	margin-top: 3rem;
 	font-family: Cera Round Pro;
 	line-height: normal;
 	font-size: 32px;
@@ -124,21 +121,78 @@ p {
 .background-bar {
     background-repeat: no-repeat;
     background-size: 100% 188px;
-    background-position: 0 17%; 
+    background-position: 0 8%; 
+}
+
+
+.flex-square {
+	margin-left: 15px;
+	margin-right: 10px;
+	flex: 0 0 31%;
 }
 
 @media (max-width: 576px) {
 	.background-bar {
     	background-repeat: no-repeat;
     	background-size: 100% 70px;
-    	background-position: 0 20%; 
+    	background-position: 0 10%; 
 	}
+
+	.flex-square {
+		height: 150px !important;
+		line-height: 150px !important;
+	    
+	    margin-left: 15px;
+		margin-right: 15px;
+		margin-top: 15px;
+		flex: 0 0 95%;
+	}
+
 }
 
 @media (min-width: 576px) and (max-width: 728px) {
 	.background-bar {
 	    background-repeat: no-repeat;
-	    background-size: 100% 188px;
-	    background-position: 0 55%;
+	    background-size: 100% 240px;
+	    background-position: 0 60%;
 	}
 }
+
+@media (min-width: 728px) and (max-width: 800px) {
+	.background-bar {
+	    background-repeat: no-repeat;
+	    background-size: 100% 220px;
+	    background-position: 0 35%;
+	}
+}
+
+@media (max-width: 1110px) {
+	.flex-square {
+		height: 150px !important;
+		line-height: 150px !important;
+
+	    margin-left: 15px;
+		margin-right: 15px;
+		margin-top: 15px;
+		flex: 0 0 95%;
+	}
+}
+
+.square {
+	background: #FFFFFF;
+	font-family: IBM Plex Mono;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 24px;
+	color: #3366FF;
+
+	height: 340px;
+	line-height: 340px;
+	text-align: center;
+	vertical-align: middle;
+	
+	text-transform: uppercase;
+	cursor: pointer;
+}
+

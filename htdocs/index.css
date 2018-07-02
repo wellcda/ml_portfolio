@@ -1,0 +1,42 @@
+.nav-top {
+	height: 35px;
+	margin-left: 89px;
+}
+
+.top-title {
+
+}
+
+.top-info {
+	font-family: Cera Round Pro;
+	line-height: normal;
+	font-size: 16px;
+	color: #3366FF;
+	word-spacing: 5px;
+}
+
+.section-spacer {
+	height: 2.5rem;
+}
+
+.section-header {
+	font-family: Cera Round Pro;
+	line-height: normal;
+	font-size: 32px;
+	color: #000000;
+}
+
+.section-address {
+	font-family: IBM Plex Mono;
+	line-height: normal;
+	font-size: 14px;
+	color: #000000;
+	padding-left: 15px;
+	padding-right: 15px;
+
+	border-left: 4px solid;
+	border-left-color: #2CB3FF;
+}
+
+
+

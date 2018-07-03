@@ -10,12 +10,9 @@ body, .container-fluid {
 	height: 35px;
 	margin-left: 89px;
 	margin-top: 15px;
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
 }
 
-.top-title {
-
-}
 
 .top-info {
 	font-family: Cera Round Pro;
@@ -132,6 +129,10 @@ p {
 }
 
 @media (max-width: 576px) {
+	.top-title {
+		margin-bottom: 1.5rem;
+	}
+
 	.background-bar {
     	background-repeat: no-repeat;
     	background-size: 100% 70px;
@@ -196,3 +197,30 @@ p {
 	cursor: pointer;
 }
 
+.info-header {
+	font-family: IBM Plex Mono;
+	font-style: italic;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 18px;
+	text-align: center;
+}
+
+.info-address {
+	font-family: IBM Plex Mono;
+	line-height: normal;
+	font-size: 14px;
+	text-align: center;
+	color: #3366FF;
+
+	padding: 70px 0 50px 0;
+}
+
+.info-section p {
+	margin-bottom: 2rem;
+}
+
+.info-section img {
+	margin-top: 2rem; 
+	margin-bottom: 3rem;
+}

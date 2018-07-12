@@ -190,6 +190,7 @@ p {
 		border-left: 4px solid;
 		border-left-color: #2CB3FF;
 		padding-left: 10px;
+		padding-right: 10px;
 	}
 }
 
@@ -290,3 +291,18 @@ p {
 	padding-left: 0px ;
 }
 
+
+.goals-and-points {
+	list-style: none;
+}
+
+.goals-and-points li:before {
+    content: "+";
+    margin-right: 4px;
+}
+
+.yellow-border-top {
+	border-top: 4px solid;
+	border-top-color: #E9FF5C;
+	padding-top: 15px;
+}

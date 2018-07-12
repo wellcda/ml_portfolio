@@ -9,7 +9,7 @@ body, .container-fluid {
 .nav-top {
 	height: 35px;
 	margin-left: 89px;
-	margin-top: 15px;
+	margin-top: 45px;
 	margin-bottom: 2rem;
 }
 
@@ -30,6 +30,14 @@ body, .container-fluid {
 .main-section {
 	background: #3366FF;
 	color: #FFFFFF;
+}
+a {
+	color: #3366FF;
+}
+
+a:hover{
+	color: #3366FF;
+	text-decoration: underline;
 }
 
 p {
@@ -118,7 +126,7 @@ p {
 .background-bar {
     background-repeat: no-repeat;
     background-size: 100% 188px;
-    background-position: 0 8%; 
+    background-position: 0 8%;
 }
 
 
@@ -136,13 +144,13 @@ p {
 	.background-bar {
     	background-repeat: no-repeat;
     	background-size: 100% 70px;
-    	background-position: 0 10%; 
+    	background-position: 0 10%;
 	}
 
 	.flex-square {
 		height: 150px !important;
 		line-height: 150px !important;
-	    
+
 	    margin-left: 15px;
 		margin-right: 15px;
 		margin-top: 15px;
@@ -219,7 +227,7 @@ p {
 	line-height: 340px;
 	text-align: center;
 	vertical-align: middle;
-	
+
 	text-transform: uppercase;
 	cursor: pointer;
 }
@@ -248,7 +256,7 @@ p {
 }
 
 .info-section img {
-	margin-top: 2rem; 
+	margin-top: 2rem;
 	margin-bottom: 3rem;
 }
 .shockoe-section {
@@ -289,4 +297,3 @@ p {
 	padding-right: 0px ;
 	padding-left: 0px ;
 }
-

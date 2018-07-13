@@ -3,13 +3,13 @@ body, .container-fluid {
 }
 
 .row {
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: 5%;
+	padding-left: 5%;
 }
 .nav-top {
 	height: 35px;
 	margin-left: 89px;
-	margin-top: 15px;
+	margin-top: 45px;
 	margin-bottom: 2rem;
 }
 
@@ -91,7 +91,7 @@ p {
 }
 
 .info-section img {
-	margin-top: 2rem; 
+	margin-top: 2rem;
 	margin-bottom: 3rem;
 }
 .shockoe-section {
@@ -132,7 +132,6 @@ p {
 	padding-right: 0px ;
 	padding-left: 0px ;
 }
-
 
 .goals-and-points {
 	list-style: none;

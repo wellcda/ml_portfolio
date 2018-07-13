@@ -3,8 +3,8 @@ body, .container-fluid {
 }
 
 .row {
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: 5%;
+	padding-left: 5%;
 }
 .nav-top {
 	height: 35px;

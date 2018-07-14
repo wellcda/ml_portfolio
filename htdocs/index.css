@@ -1,10 +1,7 @@
 body, .container-fluid {
-	background: #f9f9f9 !important;
+	background: blue !important;
 }
-* {
-margin: 0;
-padding: 0;
-}
+
 
 .row {
 	padding-right: 5%;
@@ -12,9 +9,6 @@ padding: 0;
 }
 .nav-top {
 	height: 80px;
-	/* margin-left: 89px; */
-	/* margin-top: 45px; */
-	/* margin-bottom: 2rem; */
 	margin: -64px;
 	background-color: #f9f9f9;
 	position: fixed;
@@ -25,13 +19,16 @@ padding: 0;
 .top-title{
 	margin-top: 20px;
 }
+.logo-width{
+	width: 200px;
+}
 
 .top-info {
 	font-family: Cera Round Pro;
 	line-height: normal;
 	font-size: 16px;
 	color: #3366FF;
-	word-spacing: 5px;
+	word-spacing: 16px;
 	float: left;
 	margin-top: 32px;
 }
@@ -149,11 +146,6 @@ p {
 	margin-right: 10px;
 	flex: 0 0 31%;
 }
-
-@media (max-width: 576px) {
-	.top-title {
-		margin-bottom: 1.5rem;
-	}
 
 	.background-bar {
     	background-repeat: no-repeat;
@@ -334,5 +326,21 @@ p {
 
 
 /* mobile 575px*/
-@media (min-width: 300px) and (max-width: 575px){
+@media (max-width: 576px) and (min-width: 300px){
+	.nav-top {
+		height: 100px;
+	}
+	.top-title{
+		margin-top: 24px;
+	}
+	.logo-width{
+		width: 100px;
+	}
+	.top-info {
+		margin-top: 12px;
+	}
+	.{
+		margin-top: 8rem;
+	}
+
 }

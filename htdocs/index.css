@@ -1,178 +1,176 @@
 body, .container-fluid {
-	background: #F9F9F9 !important;
+  background: blue !important;
 }
 
 .row {
-	padding-right: 5%;
-	padding-left: 5%;
-}
-.nav-top {
-	height: 35px;
-	margin-left: 89px;
-	margin-top: 45px;
-	margin-bottom: 2rem;
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
+.nav-top {
+  height: 35px;
+  margin-left: 89px;
+  margin-top: 45px;
+  margin-bottom: 2rem;
+}
 
 .top-info {
-	font-family: Cera Round Pro;
-	line-height: normal;
-	font-size: 16px;
-	color: #3366FF;
-	word-spacing: 5px;
+  font-family: Cera Round Pro;
+  line-height: normal;
+  font-size: 16px;
+  color: #3366FF;
+  word-spacing: 5px;
 }
 
 p {
-	font-family: IBM Plex Mono;
-	line-height: normal;
-	font-size: 14px;
+  font-family: IBM Plex Mono;
+  line-height: normal;
+  font-size: 14px;
 }
 
 @media (max-width: 576px) {
-	.top-title {
-		margin-bottom: 1.5rem;
-	}
-
-	.highlight-border {
-		border-top: 4px solid;
-		border-top-color: #2CB3FF;
-		padding-top: 10px;
-	}
-
+  .top-title {
+    margin-bottom: 1.5rem;
+  }
+  .highlight-border {
+    border-top: 4px solid;
+    border-top-color: #2CB3FF;
+    padding-top: 10px;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 728px) {
-
-	.highlight-border {
-		border-top: 4px solid;
-		border-top-color: #2CB3FF;
-		padding-top: 10px;
-	}
+  .highlight-border {
+    border-top: 4px solid;
+    border-top-color: #2CB3FF;
+    padding-top: 10px;
+  }
 }
 
 @media (min-width: 728px) and (max-width: 800px) {
-	.highlight-border {
-		border-top: 4px solid;
-		border-top-color: #2CB3FF;
-		padding-top: 10px;
-	}
+  .highlight-border {
+    border-top: 4px solid;
+    border-top-color: #2CB3FF;
+    padding-top: 10px;
+  }
 }
 
 @media (min-width: 800px) {
-	.highlight-border {
-		border-left: 4px solid;
-		border-left-color: #2CB3FF;
-		padding-left: 10px;
-		padding-right: 10px;
-	}
+  .highlight-border {
+    border-left: 4px solid;
+    border-left-color: #2CB3FF;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
-.info-header {
-	font-family: IBM Plex Mono;
-	font-style: italic;
-	font-weight: 500;
-	line-height: normal;
-	font-size: 18px;
-	text-align: center;
+.info-quote {
+  font-family: IBM Plex Mono;
+  font-style: italic;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
 }
 
 .info-address {
-	font-family: IBM Plex Mono;
-	line-height: normal;
-	font-size: 14px;
-	text-align: center;
-	color: #3366FF;
-
-	padding: 70px 0 50px 0;
+  font-family: IBM Plex Mono;
+  line-height: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #3366FF;
+  padding: 80px 0 16px 0;
 }
 
 .info-section p {
-	margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 .info-section img {
-	margin-top: 2rem;
-	margin-bottom: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
+
 .shockoe-section {
-	margin-top: 4rem;
+  margin-top: 4rem;
 }
+
 .shockoe-section h1 {
-	margin-top: 2rem;
-	font-family: IBM Plex Mono;
-	font-style: normal;
-	font-weight: 500;
-	line-height: normal;
-	font-size: 20px;
-	text-transform: uppercase;
+  margin-top: 2rem;
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-transform: uppercase;
 }
 
 .header2 {
-	margin-top: 2rem;
-	font-family: IBM Plex Mono;
-	font-style: normal;
-	font-weight: 500;
-	line-height: normal;
-	font-size: 20px;
-	text-transform: uppercase;
+  margin-top: 2rem;
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-transform: uppercase;
 }
 
 .team {
-	font-family: IBM Plex Mono;
-	line-height: normal;
-	font-size: 14px;
+  font-family: IBM Plex Mono;
+  line-height: normal;
+  font-size: 14px;
 }
 
 .highlights .col-md-4, .col-md-12 {
-	padding-right: 0px ;
-	padding-left: 0px ;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .highlights .col-md-12 {
-	padding-right: 0px ;
-	padding-left: 0px ;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .goals-and-points {
-	list-style: none;
-	font-family: IBM Plex Mono;
-	font-size: 14px;
+  list-style: none;
+  font-family: IBM Plex Mono;
+  font-size: 14px;
 }
 
 .goals-and-points li:before {
-    content: "+";
-    margin-right: 4px;
+  content: "+";
+  margin-right: 4px;
 }
 
 .yellow-border-top {
-	border-top: 4px solid;
-	border-top-color: #E9FF5C;
-	padding-top: 15px
-;	margin-top: 15px;
-	margin-bottom: 15px;
+  border-top: 4px solid;
+  border-top-color: #E9FF5C;
+  padding-top: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .call-to-action {
-	background: #3366FF;
-	color: #FFFFFF;
-	padding-top: 3rem;
-    padding-bottom: 3rem;
-    margin-top: 4rem;
-    margin-bottom: 3rem;
+  background: #3366FF;
+  color: #FFFFFF;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
 }
 
 .call-to-action h1 {
-	font-family: Cera Round Pro;
-	font-size: 48px;
+  font-family: Cera Round Pro;
+  font-size: 48px;
 }
 
 .call-to-action .subtitle {
-	font-size: 24px;
-	font-family: IBM Plex Mono;
+  font-size: 24px;
+  font-family: IBM Plex Mono;
 }
 
 .section-title {
-	font-family: Cera Round Pro;
-	font-size: 32px;
-	color: #0056FF;
+  font-family: Cera Round Pro;
+  font-size: 32px;
+  color: #0056FF;
 }

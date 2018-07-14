@@ -1,18 +1,30 @@
 body, .container-fluid {
-	background: #F9F9F9 !important;
+	background: #f9f9f9 !important;
+}
+* {
+margin: 0;
+padding: 0;
 }
 
 .row {
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: 5%;
+	padding-left: 5%;
 }
 .nav-top {
-	height: 35px;
-	margin-left: 89px;
-	margin-top: 45px;
-	margin-bottom: 2rem;
+	height: 80px;
+	/* margin-left: 89px; */
+	/* margin-top: 45px; */
+	/* margin-bottom: 2rem; */
+	margin: -64px;
+	background-color: #f9f9f9;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
 }
 
+.top-title{
+	margin-top: 20px;
+}
 
 .top-info {
 	font-family: Cera Round Pro;
@@ -20,6 +32,8 @@ body, .container-fluid {
 	font-size: 16px;
 	color: #3366FF;
 	word-spacing: 5px;
+	float: left;
+	margin-top: 32px;
 }
 
 .section {
@@ -316,4 +330,9 @@ p {
 	padding-top: 15px;
 	margin-top: 15px;
 	margin-bottom: 15px;
+}
+
+
+/* mobile 575px*/
+@media (min-width: 300px) and (max-width: 575px){
 }

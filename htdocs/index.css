@@ -14,17 +14,25 @@ body, .container-fluid {
   margin-bottom: 2rem;
 }
 
-.top-info {
+.top-info a {
   font-family: Cera Round Pro;
   line-height: normal;
   font-size: 16px;
+  word-spacing: 12px;
   color: #3366FF;
-  word-spacing: 5px;
+}
+
+.top-info a:hover {
+  text-decoration: underline;
+  color: #3366FF;
+}
+
+a {
+  font-size: 14px;
 }
 
 a:hover {
   text-decoration: underline;
-  color: red;
 }
 
 html {
@@ -35,6 +43,40 @@ p {
   font-family: IBM Plex Mono;
   line-height: normal;
   font-size: 14px;
+}
+
+.team a {
+  font-family: IBM Plex Mono;
+  color: #3366FF;
+}
+
+.team a:hover {
+  text-decoration: underline;
+  color: #3366FF;
+}
+
+.anchor-links ul {
+  list-style-type: none;
+}
+
+.anchor-links a {
+  font-family: IBM Plex Mono;
+  color: #3366FF;
+}
+
+.anchor-links a:hover {
+  text-decoration: underline;
+  color: #3366FF;
+}
+
+.cs-paragraphs a {
+  font-family: IBM Plex Mono;
+  color: #3366FF;
+}
+
+.cs-paragraphs a:hover {
+  text-decoration: underline;
+  color: #3366FF;
 }
 
 @media (max-width: 576px) {
@@ -122,12 +164,6 @@ p {
   line-height: normal;
   font-size: 20px;
   text-transform: uppercase;
-}
-
-.team {
-  font-family: IBM Plex Mono;
-  line-height: normal;
-  font-size: 14px;
 }
 
 .highlights .col-md-4, .col-md-12 {

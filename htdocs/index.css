@@ -22,6 +22,15 @@ body, .container-fluid {
   word-spacing: 5px;
 }
 
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 p {
   font-family: IBM Plex Mono;
   line-height: normal;

@@ -55,10 +55,40 @@ ul a:hover {
   color: #3366FF;
 }
 
-.anchor-links ul {
+.anchor-links {
   list-style-type: none;
   font-family: IBM Plex Mono;
   font-size: 14px;
+}
+
+.case-study h1 {
+  font-size: 100px;
+  font-family: IBM Plex Mono;
+  font-weight: bold;
+  color: black;
+}
+
+.cs-date {
+  font-family: IBM Plex Mono;
+  font-size: 14px;
+}
+
+.cs-team ul {
+  display: block;
+  list-style-type: none;
+}
+
+.cs-team li {
+  display: inline-block;
+  font-family: IBM Plex Mono;
+  font-size: 14px;
+}
+
+.case-study h4 {
+  font-size: IBM Plox Mono;
+  font-size: 16px;
+  font-weight: medium;
+  color: black;
 }
 
 @media (max-width: 576px) {
@@ -124,11 +154,11 @@ ul a:hover {
   margin-bottom: 3rem;
 }
 
-.shockoe-section {
+.case-study {
   margin-top: 4rem;
 }
 
-.shockoe-section h1 {
+.case-study h1 {
   margin-top: 2rem;
   font-family: IBM Plex Mono;
   font-style: normal;

@@ -8,10 +8,8 @@ body, .container-fluid {
 }
 
 .nav-top {
-  height: 35px;
   margin-left: 89px;
   margin-top: 45px;
-  margin-bottom: 2rem;
 }
 
 .top-info a {
@@ -125,11 +123,10 @@ ul a:hover {
 }
 
 .shockoe-section {
-  margin-top: 4rem;
+  margin-top: 4.5rem;
 }
 
 .shockoe-section h1 {
-  margin-top: 2rem;
   font-family: IBM Plex Mono;
   font-style: normal;
   font-weight: 500;

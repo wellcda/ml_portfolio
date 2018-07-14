@@ -57,6 +57,8 @@ ul a:hover {
 
 .anchor-links ul {
   list-style-type: none;
+  font-family: IBM Plex Mono;
+  font-size: 14px;
 }
 
 @media (max-width: 576px) {

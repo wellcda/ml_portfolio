@@ -8,7 +8,7 @@ body, .container-fluid {
 }
 
 .row-index {
-  padding-bottom: 24px;
+  padding-bottom: 28px;
 }
 
 .nav-top {
@@ -237,8 +237,19 @@ ul a:hover {
   font-family: IBM Plex Mono;
 }
 
-.section-title {
+.index h2 {
   font-family: Cera Round Pro;
   font-size: 32px;
-  color: #0056FF;
+  color: #3366FF;
+}
+
+.index a {
+  font-family: Cera Round Pro;
+  font-size: 32px;
+  color: #3366FF;
+}
+
+.index a:hover {
+  color: #3366FF;
+  text-decoration: underline;
 }

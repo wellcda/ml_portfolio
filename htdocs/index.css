@@ -69,6 +69,9 @@ ul a:hover {
   .row-index {
     padding-bottom: 0px;
   }
+  .cs-space {
+    padding-bottom: 24px;
+  }
 }
 
 @media (max-width: 576px) {

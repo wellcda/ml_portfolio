@@ -64,6 +64,14 @@ ul a:hover {
   list-style-type: none;
   font-family: IBM Plex Mono;
   font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+.cs-title ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 @media (max-width: 991px) {

@@ -82,6 +82,17 @@ ul a:hover {
   line-height: 24px;
 }
 
+.cs-style-team ul li {
+  font-family: IBM Plex Mono;
+  font-size: 14px;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  display: inline;
+}
+
 .cs-style h1 {
   margin-top: 2rem;
   font-family: IBM Plex Mono;

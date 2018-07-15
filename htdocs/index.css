@@ -7,6 +7,10 @@ body, .container-fluid {
   padding-left: 5%;
 }
 
+.row-index {
+  padding-bottom: 24px;
+}
+
 .nav-top {
   height: 35px;
   margin-left: 89px;
@@ -59,6 +63,12 @@ ul a:hover {
   list-style-type: none;
   font-family: IBM Plex Mono;
   font-size: 14px;
+}
+
+@media (max-width: 991px) {
+  .row-index {
+    padding-bottom: 0px;
+  }
 }
 
 @media (max-width: 576px) {

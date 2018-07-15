@@ -60,10 +60,51 @@ ul a:hover {
   color: #3366FF;
 }
 
-.anchor-links ul {
-  list-style-type: none;
+/*Case study style*/
+
+.cs-style {
+  padding-bottom: 32px;
+}
+
+.cs-style h3 {
+  font-family: IBM Plex Mono;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.cs-style ul {
   font-family: IBM Plex Mono;
   font-size: 14px;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+}
+
+.cs-style-team ul li {
+  font-family: IBM Plex Mono;
+  font-size: 14px;
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  display: inline;
+}
+
+.cs-style h1 {
+  margin-top: 2rem;
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 32px;
+  text-transform: uppercase;
+}
+
+.cs-style-section {
+  margin-top: 4rem;
 }
 
 @media (max-width: 991px) {
@@ -136,20 +177,6 @@ ul a:hover {
 .info-section img {
   margin-top: 2rem;
   margin-bottom: 3rem;
-}
-
-.shockoe-section {
-  margin-top: 4rem;
-}
-
-.shockoe-section h1 {
-  margin-top: 2rem;
-  font-family: IBM Plex Mono;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-  font-size: 20px;
-  text-transform: uppercase;
 }
 
 .header2 {

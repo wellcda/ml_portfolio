@@ -20,19 +20,7 @@
 
   <div class="container-fluid">
 
-    <div class="row text-center text-sm-left nav-top justify-content-sm-left">
-      <div class="col-sm top-title">
-        <a href="index.html"><img src="../imgs/ml-logo.svg" class="img-fluid" alt="Responsive image" width="200px"></a>
-      </div>
-      <div class="col-sm-auto top-info">
-        <a href="index.html">work</a>
-        <a href="info.html">info</a>
-        <a href="http://bit.ly/2ztQa4x">linkedin<a/>
-          <a href="http://bit.ly/2KPcPNY">twitter</a>
-        <!-- <i class="fab fa-twitter"></i>
-          <i class="fab fa-linkedin-in"></i> -->
-      </div>
-    </div>
+    <?php include 'header.php';?>
 
     <div class="row info-address">
       <div class="col-12">
@@ -42,7 +30,7 @@
 
     <div class="row info-section">
       <div class="col-md-6 offset-md-3">
-        <h1 class="info-quote">Living the life in California as a Product Designer</h1>
+        <h1 class="info-quote">Living the life in California as a UI Designer</h1>
         <div class="text-center">
           <img src="../imgs/info-img.png" class="img-fluid" alt="Responsive image">
         </div>

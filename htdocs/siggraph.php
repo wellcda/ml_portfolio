@@ -19,23 +19,13 @@
 <body>
   <div class="container-fluid">
 
-    <div class="row text-center text-sm-left nav-top justify-content-sm-left">
-      <div class="col-sm top-title">
-        <img src="../imgs/ml-logo.png" class="img-fluid" alt="Responsive image">
-      </div>
-      <div class="col-sm-auto top-info">
-        <a href="index.html">work</a>
-        <a href="info.html">info</a>
-        <a href="#">twitter</a>
-        <a href="#">linkedin</a>
-      </div>
-    </div>
+    <?php include 'header.php';?>
 
-    <div class="row cs-style-section">
+    <div class="row shockoe-section">
       <div class="col-md-3">
 
-        <div class="cs-style">
-          <h1>SIGGRAPH Portal</h1>
+        <div class="cs-title">
+          <h1>SIGGRAPH</h1>
           <ul>
             <li>UX/UI Designer + Frontend Developer
             </li>
@@ -45,25 +35,19 @@
           </ul>
         </div>
 
-        <div class="cs-style">
-          <h3>Topics</h3>
+        <div class="team">
+          <h6>Team</h6>
+          <p>
+            <a href="#">Samantha Carbonell</a>. <a href="#">Nikki Ziegler</a>. Meaghan Long.
+          </p>
+        </div>
+
+        <div class="anchor-links">
+          <h6>Topics</h6>
           <ul>
             <li><a href="#users">Users</a></li>
             <li><a href="#application">Application</a></li>
             <li><a href="#student-profiles">Student profiles</a></li>
-          </ul>
-        </div>
-
-
-        <div class="cs-style cs-style-team">
-          <h3>Team</h3>
-          <ul>
-            <li><a href="#">Samantha Carbonell.</a>
-            </li>
-            <li><a href="#">Nikki Ziegler</a>.
-            </li>
-            <li>Meaghan Long.
-            </li>
           </ul>
         </div>
       </div>
@@ -102,7 +86,7 @@
 
         </div>
 
-        <div class="row cs-paragraphs highlights">
+        <div class="cs-paragraphs">
           <h2 class="header2">Summary</h2>
           <p>The Student Volunteer Program wanted a more streamlined stronger experience as early on as the application process, and that was going to be accomplished by replacing a system that hadn’t been updated since being built in the early 2000s. Most
             of my focus involved <a href="#">Test</a> me leading workflows and designs to make the student application easier to understand and complete. The team was able to accomplish this by student applications rising by 18%.</p>

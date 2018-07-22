@@ -93,6 +93,11 @@ ul a:hover {
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .fixed-left-column {
+    position: fixed !important;
+    max-width: 20%;
+  }
 }
 
 .info-quote {
@@ -198,3 +203,4 @@ ul a:hover {
   font-size: 32px;
   color: #0056FF;
 }
+

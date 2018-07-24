@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <div class="row text-center text-sm-left nav-top justify-content-sm-left">
   <div class="col-sm top-title">
     <img src="../imgs/ml-logo.png" class="img-fluid" alt="Responsive image">
@@ -29,4 +26,3 @@
 </div>
 -->
 
-</html>

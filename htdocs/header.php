@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<div class="row text-center text-sm-left nav-top justify-content-sm-left">
+
+<nav class="fixed-top nav-top row text-center text-sm-left justify-content-sm-left">
   <div class="col-sm top-title">
     <img src="../imgs/ml-logo.png" class="img-fluid" alt="Responsive image">
   </div>
@@ -11,7 +12,8 @@
     <a href="#">twitter</a>
     <a href="#">linkedin</a>
   </div>
-</div>
+</nav>
+
 
 <!--Ones with icons
 <div class="row text-center text-sm-left nav-top justify-content-sm-left">

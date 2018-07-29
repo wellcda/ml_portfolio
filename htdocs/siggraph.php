@@ -21,34 +21,36 @@
 
     <?php include 'header.php';?>
 
-    <div class="row shockoe-section">
+    <div class="row cs-style-section">
+      
       <div class="col-md-3">
+        <div class="fixed-left-column">
+          <div class="cs-title">
+            <h1>SIGGRAPH</h1>
+            <ul>
+              <li>UX/UI Designer + Frontend Developer
+              </li>
+              <li>Website applications
+              </li>
+              <li>2016 - present</li>
+            </ul>
+          </div>
 
-        <div class="cs-title">
-          <h1>SIGGRAPH</h1>
-          <ul>
-            <li>UX/UI Designer + Frontend Developer
-            </li>
-            <li>Website applications
-            </li>
-            <li>2016 - present</li>
-          </ul>
-        </div>
+          <div class="team">
+            <h6>Team</h6>
+            <p>
+              <a href="#">Samantha Carbonell</a>. <a href="#">Nikki Ziegler</a>. Meaghan Long.
+            </p>
+          </div>
 
-        <div class="team">
-          <h6>Team</h6>
-          <p>
-            <a href="#">Samantha Carbonell</a>. <a href="#">Nikki Ziegler</a>. Meaghan Long.
-          </p>
-        </div>
-
-        <div class="anchor-links">
-          <h6>Topics</h6>
-          <ul>
-            <li><a href="#users">Users</a></li>
-            <li><a href="#application">Application</a></li>
-            <li><a href="#student-profiles">Student profiles</a></li>
-          </ul>
+          <div class="anchor-links">
+            <h6>Topics</h6>
+            <ul>
+              <li><a href="#users">Users</a></li>
+              <li><a href="#application">Application</a></li>
+              <li><a href="#student-profiles">Student profiles</a></li>
+            </ul>
+          </div>
         </div>
       </div>
 
@@ -86,7 +88,7 @@
 
         </div>
 
-        <div class="cs-paragraphs">
+        <div class="row cs-paragraphs highlights">
           <h2 class="header2">Summary</h2>
           <p>The Student Volunteer Program wanted a more streamlined stronger experience as early on as the application process, and that was going to be accomplished by replacing a system that hadn’t been updated since being built in the early 2000s. Most
             of my focus involved <a href="#">Test</a> me leading workflows and designs to make the student application easier to understand and complete. The team was able to accomplish this by student applications rising by 18%.</p>

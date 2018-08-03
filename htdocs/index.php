@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <!-- Font - IBM Plex Mono -->
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
+
+    <link rel="shortcut icon" type="image/png" href="../imgs/favicon.png">
+
     <title>Meaghan Long</title>
   </head>
   <body>

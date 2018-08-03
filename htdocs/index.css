@@ -94,7 +94,6 @@ ul a:hover {
     padding-left: 10px;
     padding-right: 10px;
   }
-
   .fixed-left-column {
     position: fixed !important;
     max-width: 20%;
@@ -205,3 +204,10 @@ ul a:hover {
   color: #0056FF;
 }
 
+footer {
+  padding-right: 5%;
+  padding-left: 5%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}

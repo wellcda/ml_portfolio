@@ -6,11 +6,9 @@
   <title>Meaghan Long</title>
 </head> 
 <body>
+  <?php include 'header.php';?>
 
   <div class="container-fluid">
-
-    <?php include 'header.php';?>
-
     <div class="row info-address">
       <div class="col-12">
         <address>hello@longmeaghan.com</address>

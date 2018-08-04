@@ -5,29 +5,28 @@
     <title>Meaghan Long</title>
   </head>
   <body>
-
+    <?php include 'header.php';?>
     <div class="container-fluid">
-
-      <?php include 'header.php';?>
 
       <div class="row shockoe-section">
         <div class="col-md-3">
+          <div class="fixed-left-column">
+            <div class="shockoe-header">
+              <h1>shockoe.com</h1>
+              <ul class="description-list">
+                <li>UX/UI Designer + Frontend Developer </li>
+                <li>Website </li>
+                <li>2016</li>
+              </ul>
+            </div>
 
-          <div class="shockoe-header">
-            <h1>shockoe.com</h1>
-            <ul class="description-list">
-              <li>UX/UI Designer + Frontend Developer </li>
-              <li>Website </li>
-              <li>2016</li>
-            </ul>
-          </div>
-
-          <div class="team">
-            <p>
-              <strong>Team</strong>
-              <br>
-              <a href="">Samantha Carbonell</a>. <a href="">Nikki Ziegler</a>. Meaghan Long.
-            </p>
+            <div class="team">
+              <p>
+                <strong>Team</strong>
+                <br>
+                <a href="">Samantha Carbonell</a>. <a href="">Nikki Ziegler</a>. Meaghan Long.
+              </p>
+            </div>
           </div>
         </div>
 
@@ -68,7 +67,7 @@
 
           </div>
 
-          <div class="text-description">
+          <div class="row text-description">
             <h2 class="header2">Summary</h2>
             <p>Shockoe needed a refresh on their business website that was responsive, had up-to-date branding, and showcased their best work. The website needed to be completed by the end of my 3-month internship. Within that time, I researched competitors, created site maps, sketched wireframes, collected visual assets both internally and externally, laid out pages in sketch, and dabbed in front-end development in Wordpress. During that time I met with the CEO & COO to discuss their requirements vision for this website. This was a special opportunity as it gave me my first taste of user experience design, and allowed me to expand my knowledge in HTML/CSS and Wordpress.</p>
 

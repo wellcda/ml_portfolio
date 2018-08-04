@@ -1,13 +1,12 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <?php include 'head.php';?> 
+    <?php include 'head.php';?>
     <title>Meaghan Long</title>
   </head>
   <body>
-
     <?php include 'header.php';?>
-
+    <div class="container-fluid">
       <div class="row call-to-action">
         <div class="col">
           <h1>solving ux/ui enterprise solutions for over 1 million users</h1>
@@ -54,4 +53,7 @@
     </div>
 
   </body>
+  <footer>
+    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
+  </footer>
 </html>

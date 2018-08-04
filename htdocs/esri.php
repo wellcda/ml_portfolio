@@ -5,11 +5,8 @@
     <title>Meaghan Long</title>
   </head>
   <body>
-
+    <?php include 'header.php';?>
     <div class="container-fluid">
-
-      <?php include 'header.php';?>
-
       <div class="row shockoe-section">
         <div class="col-md-3">
 
@@ -68,7 +65,7 @@
 
           </div>
 
-          <div class="text-description">
+          <div class="row text-description">
             <h2 class="header2">Request work</h2>
             <p>Unfortunately, the work that I completed for Esri is confidential. Please email me with specific requests for what you would like to see regarding projects I worked on, my process, or deliverables. I would be happy to answer questions and share a few pieces with you.</p>
           </div>

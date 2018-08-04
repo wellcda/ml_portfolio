@@ -207,6 +207,10 @@ ul a:hover {
   color: #0056FF;
 }
 
+.container-fluid {
+  margin-top: 90px;
+}
+
 footer {
   padding-right: 5%;
   padding-left: 5%;

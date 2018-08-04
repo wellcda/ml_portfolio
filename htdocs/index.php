@@ -18,9 +18,8 @@
     <title>Meaghan Long</title>
   </head>
   <body>
-
     <?php include 'header.php';?>
-
+    <div class="container-fluid">
       <div class="row call-to-action">
         <div class="col">
           <h1>solving ux/ui enterprise solutions for over 1 million users</h1>

@@ -15,10 +15,8 @@
     <title>Meaghan Long</title>
   </head>
   <body>
-
+    <?php include 'header.php';?>
     <div class="container-fluid">
-
-      <?php include 'header.php';?>
 
       <div class="row shockoe-section">
         <div class="col-md-3">

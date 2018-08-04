@@ -17,12 +17,9 @@
 </head>
 
 <body>
+  <?php include 'header.php';?>
   <div class="container-fluid">
-
-    <?php include 'header.php';?>
-
     <div class="row cs-style-section">
-      
       <div class="col-md-3">
         <div class="fixed-left-column">
           <div class="cs-title">

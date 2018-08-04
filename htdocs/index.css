@@ -218,3 +218,7 @@ footer {
   left: 0;
   bottom: 0;
 }
+
+.lightgallery img {
+  margin: 10px 10px 0 0;
+}

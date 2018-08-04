@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <?php include 'head.php';?> 
+    <?php include 'head.php';?>
     <title>Meaghan Long</title>
   </head>
   <body>
@@ -32,7 +32,7 @@
 
         <div class="col-md-9">
           <div class="text-center">
-            <img src="../imgs/info-img.png" class="img-fluid" alt="Responsive image">
+            <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
           </div>
 
           <div class="row highlights">

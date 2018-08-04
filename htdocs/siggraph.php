@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <?php include 'head.php';?> 
+  <?php include 'head.php';?>
   <title>Meaghan Long</title>
 </head>
 <body>
@@ -42,7 +42,7 @@
 
       <div class="col-md-9">
         <div class="text-center">
-          <img src="../imgs/info-img.png" class="img-fluid" alt="Responsive image">
+          <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
         </div>
 
         <div class="row highlights">
@@ -90,7 +90,7 @@
 
             <div class="row">
               <div class="col-md-2 text-center">
-                <img src="../imgs/s1.png" class="img-fluid" alt="Responsive image">
+                <img src="../img/s1.png" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">
@@ -116,7 +116,7 @@
 
             <div class="row yellow-border-top">
               <div class="col-md-2 text-center">
-                <img src="../imgs/s2.png" class="img-fluid" alt="Responsive image">
+                <img src="../img/s2.png" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">
@@ -141,7 +141,7 @@
 
             <div class="row yellow-border-top">
               <div class="col-md-2 text-center">
-                <img src="../imgs/s3.png" class="img-fluid" alt="Responsive image">
+                <img src="../img/s3.png" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">
@@ -171,6 +171,28 @@
             <p>The first tasked we had for the system was having the application available that would be understood both by Student volunteers and Team leaders. In the pass, the form was not only difficult to understand, was not clear what was innacruately
               filled out, and how many characters a student typed into a form, or even what section of the form a student was in, or how much of the form they had left. But within one month, paint points of the form were reviewed, addressing it by having
               stronger error states, character counts at the bottom of the form, and having a page indicator at the top of the page, highlighting the current page a student was on.</p>
+
+            <div id="lightgallery-1" class="lightgallery">
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+            </div>
+
           </div>
 
           <div id="student-profiles">
@@ -183,12 +205,41 @@
               of actions per student, including an option to write a review.</p>
             <p>Lastly, we have student volunteers who have two main points. Not clearing knowing what tiem their shift is, taking a while to grasp that they need to be at the office 30 minutes before their shift for setup and training, and knowing who their
               team leader will be for that shift. For this we add all of this information to their modal, including having a picture of their TL that will make it easier for the student to quickly identity their lead.</p>
+
+            <div id="lightgallery-2" class="lightgallery">
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+            </div>
+
           </div>
 
         </div>
       </div>
     </div>
 
+    <?php include 'scripts.php';?>
+    <script type="text/javascript">
+      $(document).ready(function() {
+          $("#lightgallery-1").lightGallery();
+          $("#lightgallery-2").lightGallery();
+      });
+    </script>
 </body>
 
 </html>

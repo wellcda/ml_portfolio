@@ -11,4 +11,4 @@
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
 
 <!-- light gallery -->
-<link type="text/css" rel="stylesheet" href="../css/lightGallery.css" /> 
+<link type="text/css" rel="stylesheet" href="../css/lightgallery.min.css" />

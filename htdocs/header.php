@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <nav class="navbar fixed-top navbar-light bg-light">
   <a class="col-sm navbar-brand" href="index.php">
-    <img src="../imgs/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px">
+    <img src="../img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px">
   </a>
   <div class="col-sm-auto top-info">
     <a href="index.php">work</a>
@@ -13,11 +11,10 @@
     <a href="#">linkedin</a>
   </div>
 </nav>
-
 <!--Ones with icons
 <div class="row text-center text-sm-left nav-top justify-content-sm-left">
   <div class="col-sm top-title">
-     <a href="index.php"><img src="../imgs/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px"></a>
+     <a href="index.php"><img src="../img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px"></a>
   </div>180px180px
   <div class="col-sm-auto top-info">
     <a href="index.php">work</a>
@@ -30,4 +27,3 @@
 </div>
 -->
 
-</html>

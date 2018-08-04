@@ -64,9 +64,15 @@ ul a:hover {
   nav {
     text-align: center!important;
   }
+
+  .lightgallery {
+    text-align: center!important;
+  }
+
   .top-title {
     margin-bottom: 1.5rem;
   }
+
   .highlight-border {
     border-top: 4px solid;
     border-top-color: #2CB3FF;
@@ -218,3 +224,22 @@ footer {
   left: 0;
   bottom: 0;
 }
+
+.lightgallery {
+  margin: 10px 0 10px 0;
+}
+
+.lightgallery img {
+  margin: 10px 10px 0 0;
+  width: 260px;
+  height: 220px;
+}
+
+.lightgallery-title {
+  /* Application Desktop */
+  font-family: IBM Plex Mono;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+  }

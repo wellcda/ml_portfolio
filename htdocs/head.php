@@ -12,3 +12,5 @@
 
 <!-- light gallery -->
 <link type="text/css" rel="stylesheet" href="../css/lightgallery.min.css" />
+
+<link rel="shortcut icon" type="image/png" href="../img/favicon.png">

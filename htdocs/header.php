@@ -2,7 +2,7 @@
 <html lang="en">
 <nav class="navbar fixed-top navbar-light bg-light">
   <a class="col-sm navbar-brand" href="index.php">
-    <img src="../img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px">
+    <img src="./img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px">
   </a>
   <div class="col-sm-auto top-info">
     <a href="index.php">work</a>

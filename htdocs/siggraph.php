@@ -172,7 +172,30 @@
               filled out, and how many characters a student typed into a form, or even what section of the form a student was in, or how much of the form they had left. But within one month, paint points of the form were reviewed, addressing it by having
               stronger error states, character counts at the bottom of the form, and having a page indicator at the top of the page, highlighting the current page a student was on.</p>
 
+            <span class="lightgallery-title">Application Desktop</span>
             <div id="lightgallery-1" class="lightgallery">
+              <a href="../img/info-img.png">
+                  <img src="../img/info-img.png"/>
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+              <a href="../img/rectangle.png">
+                  <img src="../img/rectangle.png" />
+              </a>
+            </div>
+
+            <span class="lightgallery-title">Application Desktop</span>
+            <div id="lightgallery-2" class="lightgallery">
               <a href="../img/rectangle.png">
                   <img src="../img/rectangle.png" />
               </a>
@@ -206,7 +229,7 @@
             <p>Lastly, we have student volunteers who have two main points. Not clearing knowing what tiem their shift is, taking a while to grasp that they need to be at the office 30 minutes before their shift for setup and training, and knowing who their
               team leader will be for that shift. For this we add all of this information to their modal, including having a picture of their TL that will make it easier for the student to quickly identity their lead.</p>
 
-            <div id="lightgallery-2" class="lightgallery">
+            <div id="lightgallery-3" class="lightgallery">
               <a href="../img/rectangle.png">
                   <img src="../img/rectangle.png" />
               </a>
@@ -238,6 +261,7 @@
       $(document).ready(function() {
           $("#lightgallery-1").lightGallery();
           $("#lightgallery-2").lightGallery();
+          $("#lightgallery-3").lightGallery();
       });
     </script>
 </body>

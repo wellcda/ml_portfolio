@@ -24,7 +24,9 @@
               <p>
                 <strong>Team</strong>
                 <br>
-                <a href="">Samantha Carbonell</a>. <a href="">Nikki Ziegler</a>. Meaghan Long.
+                <a href="https://www.linkedin.com/in/samantha-carbonell-1714033a">Samantha Carbonell</a>.
+                <a href="https://www.linkedin.com/in/nikkiziegler">Nikki Ziegler</a>.
+                Meaghan Long.
               </p>
             </div>
           </div>
@@ -45,7 +47,7 @@
               <p>
                 <strong>Challenge</strong>
                 <br>
-                Showcasing Shockoe's best work throught a responsive website
+                Showcasing Shockoe’s best work through a responsive website.
               </p>
             </div>
 
@@ -53,7 +55,7 @@
               <p class="highlight-border">
                 <strong>Opportunity</strong>
                 <br>
-                Lead direction of the website through wireframes, sitemaps, asset collection and ui designs
+                Lead direction for the website through wireframes, sitemaps, asset collection and UI designs.
               </p>
             </div>
 
@@ -61,7 +63,7 @@
                <p class="highlight-border">
                 <strong>Outcome</strong>
                 <br>
-                Delivered website, and personally grew user experience skills
+                Delivered website, and developed UX skills.
               </p>
             </div>
 

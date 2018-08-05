@@ -154,7 +154,7 @@ ul a:hover {
   font-style: medium;
   font-weight: 500;
   line-height: normal;
-  font-size: 20px;
+  font-size: 28px;
   text-transform: uppercase;
 }
 
@@ -223,7 +223,7 @@ ul a:hover {
 }
 
 .container-fluid {
-  margin-top: 90px;
+  padding-top: 32px;
 }
 
 footer {

@@ -1,3 +1,13 @@
+@font-face {
+  font-family: CeraRoundPro-Bold;
+  src: url(../fonts/TypeMates - CeraRoundPro-Bold.otf);
+}
+
+@font-face {
+  font-family: CeraRoundPro-Medium;
+  src: url(../fonts/TypeMates - CeraRoundPro-Medium.otf);
+}
+
 body, .container-fluid {
   background: #f9f9f9 !important;
 }
@@ -14,7 +24,7 @@ body, .container-fluid {
 }
 
 .top-info a {
-  font-family: Cera Round Pro;
+  font-family: CeraRoundPro-Medium;
   line-height: normal;
   font-size: 16px;
   word-spacing: 12px;
@@ -62,17 +72,14 @@ ul a:hover {
 
 @media (max-width: 576px) {
   nav {
-    text-align: center!important;
+    text-align: center !important;
   }
-
   .lightgallery {
-    text-align: center!important;
+    text-align: center !important;
   }
-
   .top-title {
     margin-bottom: 1.5rem;
   }
-
   .highlight-border {
     border-top: 4px solid;
     border-top-color: #2CB3FF;
@@ -141,8 +148,8 @@ ul a:hover {
 }
 
 .shockoe-section h1 {
-  font-family: IBM Plex Mono;
-  font-style: normal;
+  font-family: Cera Round Pro;
+  font-style: medium;
   font-weight: 500;
   line-height: normal;
   font-size: 20px;
@@ -198,7 +205,7 @@ ul a:hover {
 }
 
 .call-to-action h1 {
-  font-family: Cera Round Pro;
+  font-family: CeraRoundPro-Bold;
   font-size: 48px;
 }
 
@@ -208,7 +215,7 @@ ul a:hover {
 }
 
 .section-title {
-  font-family: Cera Round Pro;
+  font-family: CeraRoundPro-Bold;
   font-size: 32px;
   color: #0056FF;
 }
@@ -220,7 +227,7 @@ ul a:hover {
 footer {
   padding-right: 5%;
   padding-left: 5%;
-  position: fixed;
+  /* position: fixed; */
   left: 0;
   bottom: 0;
 }
@@ -240,6 +247,5 @@ footer {
   font-family: IBM Plex Mono;
   line-height: normal;
   font-size: 14px;
-
   color: #000000;
-  }
+}

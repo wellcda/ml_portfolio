@@ -3,7 +3,7 @@
 
 <head>
   <?php include 'head.php';?>
-  <title>Meaghan Long</title>
+  <title>SIGGRAPH</title>
 </head>
 <body>
   <?php include 'header.php';?>
@@ -264,6 +264,8 @@
           $("#lightgallery-3").lightGallery();
       });
     </script>
-</body>
-
+  </body>
+  <footer>
+    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
+  </footer>
 </html>

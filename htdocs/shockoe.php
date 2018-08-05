@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <?php include 'head.php';?>
-    <title>Meaghan Long</title>
+    <title>Shockoe</title>
   </head>
   <body>
     <?php include 'header.php';?>
@@ -92,4 +92,7 @@
     </div>
 
   </body>
+  <footer>
+    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
+  </footer>
 </html>

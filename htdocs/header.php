@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <nav class="navbar fixed-top navbar-light bg-light">
-  <a class="col-sm navbar-brand" href="index.php">
-    <img src="./img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px">
-  </a>
+  <div class="col-sm navbar-brand">
+    <a href="index.php"><img src="./img/ml-logo.svg" class="img-fluid" alt="Meaghan Long's logo" width="200px"></a>
+  </div>
   <div class="col-sm-auto top-info">
     <a href="index.php">work</a>
     <a href="info.php">info</a>
-    <a href="#">twitter</a>
-    <a href="#">linkedin</a>
+    <a href="https://twitter.com/LongMeaghan">twitter</a>
+    <a href="https://www.linkedin.com/in/longmeaghan/">linkedin</a>
   </div>
 </nav>
 <!--Ones with icons
@@ -26,4 +26,3 @@
   </div>
 </div>
 -->
-

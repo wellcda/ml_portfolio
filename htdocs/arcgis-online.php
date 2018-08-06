@@ -37,10 +37,10 @@
 
         <div class="col-md-9">
           <div class="text-center">
-            <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
+            <img src="img/hero_arcgis_online.png" class="img-fluid" alt="Responsive image" style="max-width:875px">
           </div>
           <div class="row shockoe-section">
-          <p>I’m limited on details here owing to confidentiality agreement. ArcGIS Online has been a huge part of my growth process since college and has shaped me as a product designer for enterprise level software. My areas of focus have been:
+          <p>I’m limited on details here owing to Esri's confidentiality agreement. ArcGIS Online has been a huge part of my growth process since college and has shaped me as a product designer for enterprise level software. My areas of focus have been:
           </p>
           <div class="col-md-5">
             <ul class="goals-and-points">
@@ -68,7 +68,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-9">
+        <div class="row shockoe-section">
           <p>To reiterate, my work with ArcGIS Online is confidential but please feel free to email me with specific request as to what you would like to learn about the projects I have worked on, my processes and the deliverables. I would be happy to answer questions and share my experience.
           </p>
         </div>

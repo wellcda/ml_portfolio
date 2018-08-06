@@ -34,7 +34,7 @@
 
       <div class="col-md-9">
         <div class="text-center">
-          <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
+          <img src="img/hero_mp.png" class="img-fluid" alt="Responsive image" style="max-width:800px">
         </div>
 
         <div class="row highlights">
@@ -76,29 +76,14 @@
             <h2 class="header2">Home page</h2>
             <p>The home page was redesigned in 2017, where the UX designer and I double teamed to work on a clearer search and discoverability experience for our users.
             </p>
-
-            <span class="lightgallery-title">Application Desktop</span>
             <div id="lightgallery-1" class="lightgallery">
-              <a href="../img/info-img.png">
-                  <img src="../img/info-img.png"/>
+              <a href="img/mp_fullpage.png">
+                  <img src="img/mp_fullpage_s.png"/>
               </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
+              <a href="img/mp_card.png">
+                  <img src="img/mp_card_s.png"/>
               </a>
             </div>
-
           </div>
 
           <div class="row cs-paragraphs highlights">

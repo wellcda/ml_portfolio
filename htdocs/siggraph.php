@@ -91,7 +91,7 @@
 
             <div class="row">
               <div class="col-md-2 text-center">
-                <img src="../img/s1.png" class="img-fluid" alt="Responsive image">
+                <img src="img/s_admin.svg" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">
@@ -118,7 +118,7 @@
 
             <div class="row yellow-border-top">
               <div class="col-md-2 text-center">
-                <img src="../img/s2.png" class="img-fluid" alt="Responsive image">
+                <img src="img/s_tl.svg" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">
@@ -136,10 +136,11 @@
                   </li>
                 </ul>
             </div>
+          </div>
 
             <div class="row yellow-border-top">
               <div class="col-md-2 text-center">
-                <img src="../img/s3.png" class="img-fluid" alt="Responsive image">
+                <img src="img/s_viewer.svg" class="img-fluid" alt="Responsive image">
               </div>
 
               <div class="col-md-4">

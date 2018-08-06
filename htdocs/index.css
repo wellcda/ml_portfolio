@@ -55,6 +55,11 @@ p a:hover {
   color: #3366FF
 }
 
+ul {
+  font-family: IBM Plex Mono;
+  font-size: 14px;
+}
+
 ul a {
   color: #3366FF;
 }

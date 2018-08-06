@@ -16,17 +16,17 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <span class="section-title">ArcGIS Online</span>
+          <a href="arcgis-online.php"><span class="section-title">ArcGIS Online</span></a>
           <p>Lead UX/UI Designer • web app<br>2017 - present</p>
           <p>Reimagining experiences with GIS software through design, patterns, copy, and mobility</p>
         </div>
         <div class="col-lg-4">
-          <span class="section-title">SIGGRAPH Portal</span>
+          <a href="siggraph.php"><span class="section-title">SIGGRAPH Portal</span></a>
           <p>Lead UX/UI Designer • web app<br>2016 - present</p>
           <p>Passion volunteer project that’s increased application submissions by 18%</p>
         </div>
         <div class="col-lg-4">
-          <span class="section-title">Calcite</span>
+          <a href="calcite.php"><span class="section-title">Calcite</span></a>
           <p>Project manager + UI Designer • design system<br>2016 - present</p>
           <p>Unifying Esri products and giving empowerment by providing easy access</p>
         </div>
@@ -34,17 +34,17 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <span class="section-title">Insights</span>
+          <a href="marketplace.php"><span class="section-title">Marketplace</span></a>
+          <p>Product designer • Microsoft Office plugin<br>2017-Present</p>
+          <p>Eloving GIS without leaving Excel</p>
+        </div>
+        <div class="col-lg-4">
+          <a href="insights.php"><span class="section-title">Insights</span></a>
           <p>UI Designer • web app<br>2016 - 2017</p>
           <p>Bringing data and GIS to life with data visualization</p>
         </div>
         <div class="col-lg-4">
-          <span class="section-title">ArcGIS Maps for Office</span>
-          <p>Product designer • Microsoft Office plugin<br>2016 - 2017</p>
-          <p>Eloving GIS without leaving Excel</p>
-        </div>
-        <div class="col-lg-4">
-          <span class="section-title">SHOCKOE</span>
+          <a href="shockoe.php"><span class="section-title">SHOCKOE</span></a>
           <p>UX/UI Designer • website<br>2016</p>
           <p>Highlighting Shockoe's mobile application solutions</p>
         </div>

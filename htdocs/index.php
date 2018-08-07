@@ -35,8 +35,8 @@
       <div class="row">
         <div class="col-lg-4">
           <a href="marketplace.php"><span class="section-title">Marketplace</span></a>
-          <p>Product designer • Microsoft Office plugin<br>2017-Present</p>
-          <p>Eloving GIS without leaving Excel</p>
+          <p>UIX/UI Designer<br>2017-Present</p>
+          <p>A store to sell and purchase apps and data</p>
         </div>
         <div class="col-lg-4">
           <a href="shockoe.php"><span class="section-title">SHOCKOE</span></a>

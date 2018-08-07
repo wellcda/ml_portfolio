@@ -68,6 +68,7 @@
             </li>
           </ul>
         </div>
+      </div>
         <div class="row shockoe-section">
           <p>To reiterate, my work with ArcGIS Online is confidential but please feel free to email me with specific request as to what you would like to learn about the projects I have worked on, my processes and the deliverables. I would be happy to answer questions and share my experience.
           </p>

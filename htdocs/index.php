@@ -39,11 +39,6 @@
           <p>Eloving GIS without leaving Excel</p>
         </div>
         <div class="col-lg-4">
-          <a href="insights.php"><span class="section-title">Insights</span></a>
-          <p>UI Designer • web app<br>2016 - 2017</p>
-          <p>Bringing data and GIS to life with data visualization</p>
-        </div>
-        <div class="col-lg-4">
           <a href="shockoe.php"><span class="section-title">SHOCKOE</span></a>
           <p>UX/UI Designer • website<br>2016</p>
           <p>Highlighting Shockoe's mobile application solutions</p>

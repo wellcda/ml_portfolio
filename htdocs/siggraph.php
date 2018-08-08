@@ -168,11 +168,11 @@
 
             <span class="lightgallery-title">Application Desktop</span>
             <div id="lightgallery-1" class="lightgallery">
-                <a href="img/siggraph_desktop_s.png">
-                    <img src="img/siggraph_desktop.png" />
+                <a href="img/siggraph_desktop.png">
+                    <img src="img/siggraph_desktop_s.png" />
                 </a>
-                <a href="img/siggraph_mobile_s.png">
-                    <img src="img/siggraph_mobile.png" />
+                <a href="img/siggraph_mobile.png">
+                    <img src="img/siggraph_mobile_s.png" />
                 </a>
             </div>
 
@@ -190,8 +190,8 @@
             </p>
 
             <div id="lightgallery-2" class="lightgallery">
-              <a href="img/siggraph_sv_view_2.png">
-                  <img src="img/siggraph_sv_view.png" />
+              <a href="img/siggraph_sv_view.png">
+                  <img src="img/siggraph_sv_view_2.png" />
               </a>
               <a href="img/siggraph_tl_view_1.png">
                   <img src="img/siggraph_tl_view_1_s.png" />
@@ -200,7 +200,7 @@
                   <img src="img/siggraph_tl_view_2_s.png" />
               </a>
               <a href="img/siggraph_svsc_view.png">
-                  <img src="img/siggraph_tl_view_s.png" />
+                  <img src="img/siggraph_svsc_view_s.png" />
               </a>
             </div>
 

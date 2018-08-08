@@ -37,7 +37,7 @@
 
         <div class="col-md-9">
           <div class="text-center">
-            <img src="img/hero_arcgis_online.png" class="img-fluid" alt="Responsive image" style="max-width:875px">
+            <img src="img/hero_arcgis_online.png" class="img-fluid" alt="Responsive image">
           </div>
           <div class="row shockoe-section">
           <p>I’m limited on details here owing to Esri's confidentiality agreement. ArcGIS Online has been a huge part of my growth process since college and has shaped me as a product designer for enterprise level software. My areas of focus have been:

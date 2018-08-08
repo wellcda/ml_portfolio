@@ -10,6 +10,6 @@
 <!-- Font - IBM Plex Mono -->
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
 <!-- light gallery -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.11/css/lightgallery.min.css" integrity="sha256-8rfHbJr+ju3Oc099jFJMR1xAPu8CTPHU8uP5J3X/VAY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.11/css/lightgallery.min.css" integrity="sha256-8rfHbJr+ju3Oc099jFJMR1xAPu8CTPHU8uP5J3X/VAY=" crossorigin="anonymous">
 
 <link rel="shortcut icon" type="image/png" href="../img/favicon.png">

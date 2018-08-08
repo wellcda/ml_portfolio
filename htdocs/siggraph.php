@@ -46,7 +46,7 @@
 
       <div class="col-md-9">
         <div class="text-center">
-          <img src="img/hero_siggraph.jpg" class="img-fluid" alt="Responsive image" style="max-width:875px">
+          <img src="img/hero_siggraph.jpg" class="img-fluid" alt="Responsive image">
         </div>
 
         <div class="row highlights">

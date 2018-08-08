@@ -8,16 +8,6 @@
   src: url("../fonts/CeraRoundPro-Medium.woff") format("woff"), url("../fonts/CeraRoundPro-Medium.otf") format("truetype");
 }
 
-@font-face {
-  font-family: CeraRoundPro-Light;
-  src: url("../fonts/CeraRoundPro-Light.woff") format("woff"), url("../fonts/CeraRoundPro-Light.otf") format("trupetype");
-}
-
-@font-face {
-  font-family: CeraRoundPro-Black;
-  src: url("../fonts/CeraRoundPro-Black.woff") format("woff"), url("../fonts/CeraRoundPro-Black.otf") format("truetype");
-}
-
 body, .container-fluid {
   background: #f9f9f9 !important;
 }

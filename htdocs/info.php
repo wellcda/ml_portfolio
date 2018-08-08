@@ -19,7 +19,7 @@
       <div class="col-md-6 offset-md-3">
         <h1 class="info-quote">Living the life in California as a UI Designer</h1>
         <div class="text-center">
-          <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
+          <img src="img/info-img.png" class="img-fluid" alt="Responsive image">
         </div>
         <p class="justify-text">
           At Esri, I’m focusing on ArcGIS Online and our design pattern system.

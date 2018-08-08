@@ -16,17 +16,17 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <a href="arcgis-online.php"><span class="section-title">ArcGIS Online</span></a>
+          <a href="arcgis-online"><span class="section-title">ArcGIS Online</span></a>
           <p>Lead UX/UI Designer • web app<br>2017 - present</p>
           <p>Reimagining experiences with GIS software through design, patterns, copy, and mobility</p>
         </div>
         <div class="col-lg-4">
-          <a href="siggraph.php"><span class="section-title">SIGGRAPH Portal</span></a>
+          <a href="siggraph"><span class="section-title">SIGGRAPH Portal</span></a>
           <p>Lead UX/UI Designer • web app<br>2016 - present</p>
           <p>Passion volunteer project that’s increased application submissions by 18%</p>
         </div>
         <div class="col-lg-4">
-          <a href="calcite.php"><span class="section-title">Calcite</span></a>
+          <a href="calcite"><span class="section-title">Calcite</span></a>
           <p>Project manager + UI Designer • design system<br>2016 - present</p>
           <p>Unifying Esri products and giving empowerment by providing easy access</p>
         </div>
@@ -34,12 +34,12 @@
 
       <div class="row">
         <div class="col-lg-4">
-          <a href="marketplace.php"><span class="section-title">Marketplace</span></a>
+          <a href="marketplace"><span class="section-title">Marketplace</span></a>
           <p>UIX/UI Designer<br>2017-Present</p>
           <p>A store to sell and purchase apps and data</p>
         </div>
         <div class="col-lg-4">
-          <a href="shockoe.php"><span class="section-title">SHOCKOE</span></a>
+          <a href="shockoe"><span class="section-title">SHOCKOE</span></a>
           <p>UX/UI Designer • website<br>2016</p>
           <p>Highlighting Shockoe's mobile application solutions</p>
         </div>

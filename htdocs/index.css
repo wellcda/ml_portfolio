@@ -23,12 +23,16 @@ body, .container-fluid {
   padding-left: 5%;
 }
 
+.top-info {
+  padding-left: 0px !important;
+}
+
 .top-info a {
   font-family: CeraRoundPro-Medium;
   line-height: normal;
   font-size: 16px;
-  padding-left: 3px;
-  padding-right: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
   margin-left: 6px;
   color: #3366FF;
 }

@@ -33,7 +33,7 @@
 
       <div class="col-md-9">
         <div class="text-center">
-          <img src="img/hero_calcite_2.png" class="img-fluid" alt="Responsive image" style="max-width:875px">
+          <img src="img/hero_calcite_2.png" class="img-fluid" alt="Responsive image">
         </div>
 
         <div class="row highlights">
@@ -94,7 +94,4 @@
       });
     </script>
   </body>
-  <footer>
-    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
-  </footer>
 </html>

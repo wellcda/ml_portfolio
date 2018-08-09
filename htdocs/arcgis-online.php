@@ -37,7 +37,7 @@
 
         <div class="col-md-9">
           <div class="text-center">
-            <img src="img/hero_arcgis_online.png" class="img-fluid" alt="Responsive image" style="max-width:875px">
+            <img src="img/hero_arcgis_online.png" class="img-fluid" alt="Responsive image">
           </div>
           <div class="row shockoe-section">
           <p>I’m limited on details here owing to Esri's confidentiality agreement. ArcGIS Online has been a huge part of my growth process since college and has shaped me as a product designer for enterprise level software. My areas of focus have been:
@@ -68,6 +68,7 @@
             </li>
           </ul>
         </div>
+      </div>
         <div class="row shockoe-section">
           <p>To reiterate, my work with ArcGIS Online is confidential but please feel free to email me with specific request as to what you would like to learn about the projects I have worked on, my processes and the deliverables. I would be happy to answer questions and share my experience.
           </p>
@@ -76,7 +77,4 @@
     </div>
 
   </body>
-  <footer>
-    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
-  </footer>
 </html>

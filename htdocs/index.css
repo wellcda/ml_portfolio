@@ -1,11 +1,11 @@
 @font-face {
   font-family: CeraRoundPro-Bold;
-  src: url(../fonts/TypeMates - CeraRoundPro-Bold.otf);
+  src: url("../fonts/CeraRoundPro-Bold.woff") format("woff"), url("../fonts/CeraRoundPro-Bold.otf") format("trupetype");
 }
 
 @font-face {
   font-family: CeraRoundPro-Medium;
-  src: url(../fonts/TypeMates - CeraRoundPro-Medium.otf);
+  src: url("../fonts/CeraRoundPro-Medium.woff") format("woff"), url("../fonts/CeraRoundPro-Medium.otf") format("truetype");
 }
 
 body, .container-fluid {
@@ -23,13 +23,17 @@ body, .container-fluid {
   padding-left: 5%;
 }
 
+.top-info {
+  padding-left: 0px !important;
+}
+
 .top-info a {
   font-family: CeraRoundPro-Medium;
   line-height: normal;
   font-size: 16px;
-  /* word-spacing: 24px; */
   padding-left: 6px;
   padding-right: 6px;
+  margin-left: 6px;
   color: #3366FF;
 }
 

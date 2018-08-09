@@ -46,7 +46,7 @@
 
       <div class="col-md-9">
         <div class="text-center">
-          <img src="../img/info-img.png" class="img-fluid" alt="Responsive image">
+          <img src="img/hero_siggraph.jpg" class="img-fluid" alt="Responsive image">
         </div>
 
         <div class="row highlights">
@@ -168,24 +168,12 @@
 
             <span class="lightgallery-title">Application Desktop</span>
             <div id="lightgallery-1" class="lightgallery">
-              <a href="../img/info-img.png">
-                  <img src="../img/info-img.png"/>
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
+                <a href="img/siggraph_desktop.png">
+                    <img src="img/siggraph_desktop_s.png" />
+                </a>
+                <a href="img/siggraph_mobile.png">
+                    <img src="img/siggraph_mobile_s.png" />
+                </a>
             </div>
 
           </div>
@@ -201,24 +189,18 @@
             <p>Lastly, we have Student volunteers who have two main points: not clearly knowing what time their shift is, taking a while to grasp that they needed to be at the office 30 minutes before their shift for setup and training, and not knowing who their Team leader would be for that shift. For this we add all the necessary information to their modal, including a picture of their TL that will make it easier for the student to quickly identify their Team lead.
             </p>
 
-            <div id="lightgallery-3" class="lightgallery">
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
+            <div id="lightgallery-2" class="lightgallery">
+              <a href="img/siggraph_sv_view.png">
+                  <img src="img/siggraph_sv_view_2.png" />
               </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
+              <a href="img/siggraph_tl_view_1.png">
+                  <img src="img/siggraph_tl_view_1_s.png" />
               </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
+              <a href="img/siggraph_tl_view_2.png">
+                  <img src="img/siggraph_tl_view_2_s.png" />
               </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
-              </a>
-              <a href="../img/rectangle.png">
-                  <img src="../img/rectangle.png" />
+              <a href="img/siggraph_svsc_view.png">
+                  <img src="img/siggraph_svsc_view_s.png" />
               </a>
             </div>
 
@@ -233,11 +215,7 @@
       $(document).ready(function() {
           $("#lightgallery-1").lightGallery();
           $("#lightgallery-2").lightGallery();
-          $("#lightgallery-3").lightGallery();
       });
     </script>
   </body>
-  <footer>
-    <p>Meaghan Long, 2018. <a href="https://github.com/longmeaghan/ml_portfolio">Github repository</a></p>
-  </footer>
 </html>

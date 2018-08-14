@@ -10,7 +10,7 @@
       <div class="row call-to-action">
         <div class="col">
           <h1>solving ux/ui enterprise solutions for over 1 million users</h1>
-          <span class="subtitle">Component patterns, responsive design, copywriting, competitor research, and acessibility</span>
+          <span class="subtitle">Component patterns, responsive design, copywriting, competitor research, html + css, and acessibility</span>
         </div>
       </div>
 

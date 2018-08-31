@@ -17,7 +17,7 @@
       <div class="row">
         <div class="col-lg-4">
           <a href="arcgis-online"><span class="section-title">ArcGIS Online</span></a>
-          <p>Lead UX/UI Designer • web app<br>2017 - present</p>
+          <p>Product Designer • web app<br>2017 - present</p>
           <p>Reimagining experiences with GIS software through design, patterns, copy, and mobility</p>
         </div>
         <div class="col-lg-4">

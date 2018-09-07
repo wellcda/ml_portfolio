@@ -17,17 +17,17 @@
       <div class="row">
         <div class="col-lg-4">
           <a href="arcgis-online"><span class="section-title">ArcGIS Online</span></a>
-          <p>Product Designer • web app<br>2017 - present</p>
+          <p>Product Designer • web app<br>2017 - Present</p>
           <p>Reimagining experiences with GIS software through design, patterns, copy, and mobility</p>
         </div>
         <div class="col-lg-4">
           <a href="siggraph"><span class="section-title">SIGGRAPH Portal</span></a>
-          <p>Lead UX/UI Designer • web app<br>2016 - present</p>
+          <p>Lead UX/UI Designer • web app<br>2016 - Present</p>
           <p>Passion volunteer project that’s increased application submissions by 18%</p>
         </div>
         <div class="col-lg-4">
           <a href="calcite"><span class="section-title">Calcite</span></a>
-          <p>Project manager + UI Designer • design system<br>2016 - present</p>
+          <p>Project manager + UI Designer • design system<br>2016 - Present</p>
           <p>Unifying Esri products and giving empowerment by providing easy access</p>
         </div>
       </div>
@@ -35,7 +35,7 @@
       <div class="row">
         <div class="col-lg-4">
           <a href="marketplace"><span class="section-title">Marketplace</span></a>
-          <p>UIX/UI Designer<br>2017-Present</p>
+          <p>UX/UI Designer<br>2017 - Present</p>
           <p>A store to sell and purchase apps and data</p>
         </div>
         <div class="col-lg-4">
